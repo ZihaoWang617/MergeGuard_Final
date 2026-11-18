@@ -1,0 +1,1 @@
+window.MERGEGUARD_CONFIG={api:'',cognitoDomain:'',clientId:'',redirectUri:window.location.origin+'/'};

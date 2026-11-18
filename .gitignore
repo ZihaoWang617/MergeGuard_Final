@@ -1,0 +1,12 @@
+node_modules/
+**/node_modules/
+.env
+.env.*
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
+*.tfplan
+infra/services.zip
+*.zip
+.DS_Store
